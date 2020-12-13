@@ -1,0 +1,8 @@
+{
+  "name": "typescript-masterclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeoF99/typescript-masterclass.git",
+  "author": "Leo Ferreira <leo.ferreira@dcx.ufpb.br>",
+  "license": "MIT"
+}
